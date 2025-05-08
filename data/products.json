@@ -1,0 +1,52 @@
+[
+  {
+    "position": 1,
+    "name": "Hospitable",
+    "slug": "hospitable",
+    "description": "Smart automation for guest messaging, review management, and cross-platform hosting.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/hospitable-ai.jpg",
+    "target_audience_match": "Perfect for solo Airbnb hosts who want to sound human, stay responsive, and get more 5-star reviews without doing it all manually.",
+    "price": "From $29/mo",
+    "data-link": "pending"
+  },
+  {
+    "position": 2,
+    "name": "OwnerRez + Messaging Add-On",
+    "slug": "ownerrez-messaging",
+    "description": "Robust PMS with a customizable messaging engine for review-focused hosts.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/ownerrez-messaging.jpg",
+    "target_audience_match": "Ideal for hosts who want granular control over their communication while building long-term guest satisfaction.",
+    "price": "From $40/mo",
+    "data-link": "pending"
+  },
+  {
+    "position": 3,
+    "name": "Hostaway",
+    "slug": "hostaway",
+    "description": "Full-suite STR software with AI messaging that prioritizes guest satisfaction and ratings.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/hostaway.jpg",
+    "target_audience_match": "Great for hosts scaling their operations who still want to maintain a personal, review-friendly tone with guests.",
+    "price": "Custom pricing",
+    "data-link": "pending"
+  },
+  {
+    "position": 4,
+    "name": "Smartbnb (now part of Hospitable)",
+    "slug": "smartbnb",
+    "description": "AI messaging made for Airbnb — with logic-based responses and auto-reviews.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/smartbnb.jpg",
+    "target_audience_match": "Tailored for detail-oriented hosts who want every guest touchpoint to feel intentional — and improve reviews over time.",
+    "price": "From $25/mo",
+    "data-link": "pending"
+  },
+  {
+    "position": 5,
+    "name": "Enso Connect",
+    "slug": "enso-connect",
+    "description": "AI guest experience platform with messaging, reviews, and smart flows in one hub.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/enso-connect.jpg",
+    "target_audience_match": "For hosts who want messaging to be part of a seamless guest journey — from check-in to review request.",
+    "price": "From $39/mo",
+    "data-link": "pending"
+  }
+]
